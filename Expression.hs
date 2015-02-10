@@ -1,5 +1,5 @@
 import Data.List (intersperse)
-import Data.Map as M
+import qualified Data.Map as M
 import Data.Maybe
 
 type Name = String
@@ -57,15 +57,20 @@ type ArgumentList = [Expression]
 example = fromList [Number 1, Number 2, Number 3]
 
 patternMatchArgs :: Expression -> Expression -> Maybe [(Name, Expression)]
-patternMatchArgs pattern args = case (pattern, args) of
+patternMatchArgs pattern arg = case (pattern, arg) of
     (Application _ _, _) -> error "fuck, there was an application in the pattern"
-    (Constructor name args, Constructor name2 args2)
-        | name == name2 && all isJust matches -> catMaybes matches
+    (Constructor name arg, Constructor name2 arg2)
+        | name == name2 && all isJust matches -> Just $ concat $ catMaybes matches
         | otherwise -> Nothing
-            where matches = zipWith (curry patternMatchArgs) args args2
-    (Variable name, exp) -> [(name, exp)]
+            where matches = zipWith patternMatchArgs arg arg2
+    (Variable name, exp) -> Just [(name, exp)]
     (Number n, Number m)
         | n == m -> Just []
         | otherwise -> Nothing
 
-patternMatch 
+patternMatch :: ArgumentList -> [Expression] -> Maybe [(Name, Expression)]
+patternMatch patterns args
+    | all isJust matches = Just $ concat $ catMaybes matches
+    | otherwise = Nothing
+        where matches = zipWith patternMatchArgs patterns args
+
