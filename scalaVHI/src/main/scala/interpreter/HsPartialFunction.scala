@@ -4,8 +4,6 @@ package interpreter
  * Created by bshlegeris on 2/10/15.
  */
 case class HsPartialFunction(patterns : List[HsExpr]) {
-
-
   def tryToMatch(args: List[HsExpr]): Option[Map[Name, HsExpr]] = {
     tryToMatchArg(HsConstr(Name(""), patterns), HsConstr(Name(""), args))
   }

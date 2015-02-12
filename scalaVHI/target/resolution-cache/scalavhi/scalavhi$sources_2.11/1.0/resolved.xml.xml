@@ -4,7 +4,7 @@
 		module="scalavhi$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150210225603"
+		publication="20150212000504"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
