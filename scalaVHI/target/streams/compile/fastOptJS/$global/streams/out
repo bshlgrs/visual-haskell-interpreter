@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/scala-js-tutorial-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 149619 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 196791 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 452584 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 0 -- invalidated: 3373 -- trees read: 243[0m
+[0m[[0mdebug[0m] [0mLinker: 815558 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 113733 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 727 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 213657 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 341264 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 40387 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 9018 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 51020 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 37[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 105[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 327827 us[0m

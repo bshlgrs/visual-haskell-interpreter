@@ -1,0 +1,384 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -Xplugin:/Users/bshlegeris/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.5/jars/scalajs-compiler_2.11.5-0.6.0.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+25 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl$$anonfun$flatten$1.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl$$anonfun$toString$1.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsConstr$$anonfun$flatten$2.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsConstr$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsConstr.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsExpr.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsInt$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsInt.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsVar$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsVar.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsFunctionDefinition$$anonfun$getPattern$1.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsFunctionDefinition$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsFunctionDefinition.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$1.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$tryToMatchArg$1.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$tryToMatchArg$2.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$tryToMatchArg$3.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/Name$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/Name.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/web_stuff/TutorialApp$.class
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/web_stuff/TutorialApp.class
+binary dependencies:
+12 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Users/bshlegeris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> /Users/bshlegeris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> /Users/bshlegeris/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-0.8.0.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> /Users/bshlegeris/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.0.jar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> /Users/bshlegeris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> /Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+25 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsAppl
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsAppl$
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsAppl$$anonfun$flatten$1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsAppl$$anonfun$toString$1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsConstr
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsConstr$
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsConstr$$anonfun$flatten$2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsExpr
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsInt
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsInt$
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsVar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter.HsVar$
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> interpreter.HsFunctionDefinition
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> interpreter.HsFunctionDefinition$
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> interpreter.HsFunctionDefinition$$anonfun$getPattern$1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> interpreter.HsPartialFunction
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> interpreter.HsPartialFunction$
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> interpreter.HsPartialFunction$$anonfun$1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> interpreter.HsPartialFunction$$anonfun$tryToMatchArg$1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> interpreter.HsPartialFunction$$anonfun$tryToMatchArg$2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> interpreter.HsPartialFunction$$anonfun$tryToMatchArg$3
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> interpreter.Name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> interpreter.Name$
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> web_stuff.TutorialApp
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> web_stuff.TutorialApp$
+used names:
+194 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> &&
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> ++
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> <init>
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> ==
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> AbstractFunction1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> AbstractFunction2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> AnyRef
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> HsAppl
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> HsConstr
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> HsExpr
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> HsInt
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> HsVar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> Int
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> List
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> Name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> None
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> Predef
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> Product
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> ScalaRunTime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> Serializable
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> Statics
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> String
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> StringCanBuildFrom
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> _hashCode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> apply
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> args
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> asInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> augmentString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> canBuildFrom
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> eq
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> finalizeHash
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> flatMap
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> flatten
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> immutable
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> interpreter
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> isEmpty
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> isInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> map
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> mix
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> mkString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> package
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> runtime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> toBracketedString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> toString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> typedProductIterator
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> value
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> ||
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> &&
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> <init>
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> ==
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> AbstractFunction2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> HsExpr
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> HsFunctionDefinition
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> HsPartialFunction
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> List
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> Map
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> Name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> None
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> Option
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> Predef
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> Product
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> ScalaRunTime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> Serializable
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> Tuple2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> _hashCode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> _toString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> args
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> asInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> eq
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> foreach
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> getPattern
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> interpreter
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> isInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> map
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> package
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> pattern
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> patterns
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> runtime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> toString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> tryToMatch
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> typedProductIterator
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> x
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> ||
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> !=
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> $conforms
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> &&
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> ->
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> <init>
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> ==
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> AbstractFunction1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> Exception
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> HsExpr
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> HsPartialFunction
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> List
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> Map
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> Name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> None
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> Option
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> Predef
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> Product
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> ScalaRunTime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> Serializable
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> _1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> _2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> _hashCode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> _toString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> apply
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> arg
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> args
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> args2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> asInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> canBuildFrom
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> eq
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> flatMap
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> forall
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> get
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> immutable
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> insideMatches
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> interpreter
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> isDefined
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> isInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> length
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> m
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> map
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> n
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> name2
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> ne
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> package
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> pattern
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> patterns
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> runtime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> toList
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> toMap
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> toString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> tryToMatchArg
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> tuple2ToZippedOps
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> typedProductIterator
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> value
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> x
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> zipped
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> ||
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> &&
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> <init>
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> ==
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> AbstractFunction1
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> Name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> None
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> Predef
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> Product
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> ScalaRunTime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> Serializable
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> String
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> _hashCode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> asInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> eq
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> interpreter
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> isInstanceOf
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> name
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> runtime
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> toString
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> typedProductIterator
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> ||
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> <init>
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> JSApp
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> Node
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> Predef
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> String
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> TutorialApp
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> Unit
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> appendChild
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> appendPar
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> body
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> createElement
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> createTextNode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> document
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> dom
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> interpreter
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> js
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> org
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> package
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> parNode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> scala
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> scalajs
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> targetNode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> text
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> textNode
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> web_stuff
+product stamps:
+25 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl$$anonfun$flatten$1.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl$$anonfun$toString$1.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl$.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsAppl.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsConstr$$anonfun$flatten$2.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsConstr$.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsConstr.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsExpr.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsFunctionDefinition$$anonfun$getPattern$1.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsFunctionDefinition$.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsFunctionDefinition.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsInt$.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsInt.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$1.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$tryToMatchArg$1.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$tryToMatchArg$2.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$$anonfun$tryToMatchArg$3.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction$.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsPartialFunction.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsVar$.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/HsVar.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/Name$.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/interpreter/Name.class -> lastModified(1423889740000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/web_stuff/TutorialApp$.class -> lastModified(1423898410000)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/target/scala-2.11/classes/web_stuff/TutorialApp.class -> lastModified(1423898410000)
+source stamps:
+5 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> hash(46ce9b811a0e24cbe1e0c4d8d27593685e64f8e0)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> hash(17942629e372f6a652a9cee5660f254bb5fc8d48)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> hash(69b66d066207cc08e8ab73fdcd9ed39367133f0a)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> hash(c5a6d0582af7f6993a72e152550cab208cb2ddf8)
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> hash(6aa0b149980d603ff6e25912a53cf18ff356d5f2)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418879070000)
+/Users/bshlegeris/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-0.8.0.jar -> lastModified(1422870978000)
+/Users/bshlegeris/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.0.jar -> lastModified(1422578841000)
+/Users/bshlegeris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/bshlegeris/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-0.8.0.jar -> org.scalajs.dom.package$
+/Users/bshlegeris/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.0.jar -> scala.scalajs.js.JSApp
+/Users/bshlegeris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.Unit
+internal apis:
+5 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAQaCmkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cF4nIz50AAZub3RpZnlzcQB+AAzIG9MOdAAHZmxhdHRlbnNxAH4ADHNJo1p0AAVIc0ludHNxAH4ADCz3MbF0AARuYW1lc3EAfgAMnfOfGXQABHdhaXRzcQB+AAx5gG8udAAOY29weSRkZWZhdWx0JDJzcQB+AAw0+VlFdAANJGFzSW5zdGFuY2VPZnNxAH4ADEKcCOl0AAxwcm9kdWN0QXJpdHlzcQB+AAwxu2shdAAGZXF1YWxzc3EAfgAMzG/WMHQADGFzSW5zdGFuY2VPZnNxAH4ADIc1Ush0AAxzeW5jaHJvbml6ZWRzcQB+AAxUqXvndAAFSHNWYXJzcQB+AAxmYqWLdAAISHNDb25zdHJzcQB+AAwmeCE/dAANJGlzSW5zdGFuY2VPZnNxAH4ADHGybxl0AAhjYW5FcXVhbHNxAH4ADEilg610AA1wcm9kdWN0UHJlZml4c3EAfgAMgX9jnHQACW5vdGlmeUFsbHNxAH4ADGPX/YZ0AAxpc0luc3RhbmNlT2ZzcQB+AAz3schadAAGPGluaXQ+c3EAfgAM0X5GJnQAAj09c3EAfgAMjMNaa3QABWNsb25lc3EAfgAM86xQsXQABkhzQXBwbHNxAH4ADHnHxxV0ABF0b0JyYWNrZXRlZFN0cmluZ3NxAH4ADPtziZN0AARjb3B5c3EAfgAMMkpmqXQACHRvU3RyaW5nc3EAfgAM22nlXHQABGFyZ3NzcQB+AAyjvwh9dAACIT1zcQB+AAy83j/DdAAGSHNFeHByc3EAfgAMnuHiTHQACGdldENsYXNzc3EAfgAMAtbvqXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMxqv1U3QAAm5lc3EAfgAMYGWse3QABXZhbHVlc3EAfgAMUP4iFXQAAmVxc3EAfgAMKuOGF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADCBaTHF0AAIjI3NxAH4ADOAwX+l0AAhmaW5hbGl6ZXNxAH4ADErCZ0V0AA5wcm9kdWN0RWxlbWVudHNxAH4ADMmMADl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAVzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAl0ABJpbnRlcnByZXRlci5Ic0V4cHJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AewFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgCCc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AmnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Am3NxAH4AjnQAA0FueXNxAH4AknNxAH4AlXVxAH4AmAAAAAJzcQB+AJp0AAVzY2FsYXEAfgChcHBzcQB+AGBxAH4AbXVxAH4AbgAAAABzcQB+AHAAdAASaW50ZXJwcmV0ZXIuSHNBcHBsdXEAfgBzAAAAAHEAfgB3dXEAfgB5AAAAAHNxAH4AewFxAH4Ag3BzcQB+AHsBc3EAfgCFc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AjAAAAAdzcQB+AI50AAxTZXJpYWxpemFibGVzcQB+AJJzcQB+AJV1cQB+AJgAAAACc3EAfgCacQB+AKhxAH4AoXNxAH4AjnEAfgC5c3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnEAfgCdc3EAfgCadAACaW9xAH4AoXNxAH4AjnQAB1Byb2R1Y3RxAH4AunNxAH4AjnQABkVxdWFsc3EAfgC6c3EAfgCOdAAGSHNFeHByc3EAfgCSc3EAfgCVdXEAfgCYAAAAAnNxAH4AmnQAC2ludGVycHJldGVycQB+AKFzcQB+AI5xAH4AkXNxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJpxAH4AnXNxAH4AmnEAfgCfcQB+AKFzcQB+AI5xAH4Ao3EAfgC6cHBzcQB+AGBxAH4AbXVxAH4AbgAAAABzcQB+AHAAdAAUaW50ZXJwcmV0ZXIuSHNDb25zdHJ1cQB+AHMAAAAAcQB+AHd1cQB+AHkAAAAAc3EAfgB7AXEAfgCDcHNxAH4AewFzcQB+AIVzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXEAfgCMAAAAB3NxAH4AjnEAfgC5c3EAfgCSc3EAfgCVdXEAfgCYAAAAAnNxAH4AmnEAfgCocQB+AKFzcQB+AI5xAH4AuXNxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJpxAH4AnXNxAH4AmnQAAmlvcQB+AKFzcQB+AI5xAH4AxnEAfgDnc3EAfgCOdAAGRXF1YWxzcQB+AOdzcQB+AI50AAZIc0V4cHJzcQB+AJJzcQB+AJV1cQB+AJgAAAACc3EAfgCadAALaW50ZXJwcmV0ZXJxAH4AoXNxAH4AjnEAfgCRc3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnEAfgCdc3EAfgCacQB+AJ9xAH4AoXNxAH4AjnEAfgCjcQB+AOdwcHNxAH4AYHEAfgBtdXEAfgBuAAAAAHNxAH4AcAB0ABFpbnRlcnByZXRlci5Ic1ZhcnVxAH4AcwAAAABxAH4Ad3VxAH4AeQAAAABzcQB+AHsBcQB+AINwc3EAfgB7AXNxAH4AhXNxAH4AewF1cQB+AF4AAAAAcHNxAH4AewF1cQB+AF4AAAAAcHNxAH4AewF1cQB+AIwAAAAHc3EAfgCOcQB+ALlzcQB+AJJzcQB+AJV1cQB+AJgAAAACc3EAfgCacQB+AKhxAH4AoXNxAH4AjnEAfgC5c3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnEAfgCdc3EAfgCadAACaW9xAH4AoXNxAH4AjnEAfgDGcQB+ARNzcQB+AI50AAZFcXVhbHNxAH4BE3NxAH4AjnQABkhzRXhwcnNxAH4AknNxAH4AlXVxAH4AmAAAAAJzcQB+AJp0AAtpbnRlcnByZXRlcnEAfgChc3EAfgCOcQB+AJFzcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCacQB+AJ1zcQB+AJpxAH4An3EAfgChc3EAfgCOcQB+AKNxAH4BE3Bwc3EAfgBgcQB+AG11cQB+AG4AAAAAc3EAfgBwAHQAEWludGVycHJldGVyLkhzSW50dXEAfgBzAAAAAHEAfgB3dXEAfgB5AAAAAHNxAH4AewFxAH4Ag3BzcQB+AHsBc3EAfgCFc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AXgAAAABwc3EAfgB7AXVxAH4AjAAAAAdzcQB+AI5xAH4AuXNxAH4AknNxAH4AlXVxAH4AmAAAAAJzcQB+AJpxAH4AqHEAfgChc3EAfgCOcQB+ALlzcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCacQB+AJ1zcQB+AJp0AAJpb3EAfgChc3EAfgCOcQB+AMZxAH4BP3NxAH4AjnQABkVxdWFsc3EAfgE/c3EAfgCOdAAGSHNFeHByc3EAfgCSc3EAfgCVdXEAfgCYAAAAAnNxAH4AmnQAC2ludGVycHJldGVycQB+AKFzcQB+AI5xAH4AkXNxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJpxAH4AnXNxAH4AmnEAfgCfcQB+AKFzcQB+AI5xAH4Ao3EAfgE/cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtpbnRlcnByZXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS4ZxIwt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABdL1VzZXJzL2JzaGxlZ2VyaXMvRHJvcGJveC9yZXBvcy92aXN1YWwtaGFza2VsbC1pbnRlcnByZXRlci9zY2FsYVZISS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURs6bgRoOJMvh4MTY0nWTaF5k+OA=
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDsEx9KAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKM5hDV0AAZub3RpZnlzcQB+AAx5dSzrdAAEbmFtZXNxAH4ADHmi9Lx0AApnZXRQYXR0ZXJuc3EAfgAMijSSAnQABHdhaXRzcQB+AAzJ8BwPdAAOY29weSRkZWZhdWx0JDJzcQB+AAzkUTITdAANJGFzSW5zdGFuY2VPZnNxAH4ADC3hpGJ0AAxwcm9kdWN0QXJpdHlzcQB+AAwzX++gdAAGZXF1YWxzc3EAfgAM+hFLVnQADGFzSW5zdGFuY2VPZnNxAH4ADMfNSfV0AAhwYXR0ZXJuc3NxAH4ADPTRsct0AAxzeW5jaHJvbml6ZWRzcQB+AAwHbg+0dAANJGlzSW5zdGFuY2VPZnNxAH4ADEr9wwV0AAhjYW5FcXVhbHNxAH4ADKr1H5h0AA1wcm9kdWN0UHJlZml4c3EAfgAM5f1pAXQACW5vdGlmeUFsbHNxAH4ADN4qLjZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwCc7aSdAAGPGluaXQ+c3EAfgAMfHGlVHQAAj09c3EAfgAM6R7/bXQABWNsb25lc3EAfgAM/WSCzHQAFEhzRnVuY3Rpb25EZWZpbml0aW9uc3EAfgAMK9rZ1nQABGNvcHlzcQB+AAzr2gNXdAAIdG9TdHJpbmdzcQB+AAw57klIdAACIT1zcQB+AAwJ18o2dAAIZ2V0Q2xhc3NzcQB+AAw8Z4QZdAAOY29weSRkZWZhdWx0JDFzcQB+AAwGyNKEdAACbmVzcQB+AAzqvGSHdAACZXFzcQB+AAxiKwQkdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMTB60eHQAAiMjc3EAfgAM2h3m53QACGZpbmFsaXplc3EAfgAMH8QQTHQADnByb2R1Y3RFbGVtZW50c3EAfgAM1VoapXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAIGludGVycHJldGVyLkhzRnVuY3Rpb25EZWZpbml0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdnNxAH4AbwF1cQB+AFIAAAAAcHNxAH4AbwF1cQB+AFIAAAAAcHNxAH4AbwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHV0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI9zcQB+AIJxAH4AhXNxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI50AARqYXZhc3EAfgCOdAACaW9xAH4Ak3NxAH4AgnQAB1Byb2R1Y3RxAH4AiHNxAH4AgnQABkVxdWFsc3EAfgCIc3EAfgCCdAAGT2JqZWN0c3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnEAfgCZc3EAfgCOdAAEbGFuZ3EAfgCTc3EAfgCCdAADQW55cQB+AIhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2ludGVycHJldGVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLhnEjC3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF0vVXNlcnMvYnNobGVnZXJpcy9Ecm9wYm94L3JlcG9zL3Zpc3VhbC1oYXNrZWxsLWludGVycHJldGVyL3NjYWxhVkhJL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQXlCYp43L2plKpzuVmDyVLtfyNSA==
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAAXxZCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBSF1Pp0AAZub3RpZnlzcQB+AAxoCcetdAAEd2FpdHNxAH4ADLd81YZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMJdzXU3QADHByb2R1Y3RBcml0eXNxAH4ADBOUY0d0AAZlcXVhbHNzcQB+AAwwnXxMdAANdHJ5VG9NYXRjaEFyZ3NxAH4ADKNw/zh0AAxhc0luc3RhbmNlT2ZzcQB+AAxDHh5ZdAAIcGF0dGVybnNzcQB+AAyk5kSGdAAMc3luY2hyb25pemVkc3EAfgAM6ePo7HQADSRpc0luc3RhbmNlT2ZzcQB+AAzVZ5nXdAAIY2FuRXF1YWxzcQB+AAxd3GZMdAANcHJvZHVjdFByZWZpeHNxAH4ADMZFXbN0AAlub3RpZnlBbGxzcQB+AAwcRKLfdAAKdHJ5VG9NYXRjaHNxAH4ADPerFwp0AAxpc0luc3RhbmNlT2ZzcQB+AAwaNExEdAAGPGluaXQ+c3EAfgAMpGfjk3QAEUhzUGFydGlhbEZ1bmN0aW9uc3EAfgAMOWx1XHQAAj09c3EAfgAMulc0xHQABWNsb25lc3EAfgAM/lXA13QABGNvcHlzcQB+AAxJYWIadAAIdG9TdHJpbmdzcQB+AAwck0fmdAACIT1zcQB+AAzf1q8RdAAIZ2V0Q2xhc3NzcQB+AAzZolQwdAAOY29weSRkZWZhdWx0JDFzcQB+AAxPgi85dAACbmVzcQB+AAyMh1NKdAACZXFzcQB+AAzZA/jidAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM+LDI1XQAAiMjc3EAfgAMSrRxD3QACGZpbmFsaXplc3EAfgAMZAFtJ3QADnByb2R1Y3RFbGVtZW50c3EAfgAMrvueOHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHWludGVycHJldGVyLkhzUGFydGlhbEZ1bmN0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIBxAH4Ag3NxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIx0AARqYXZhc3EAfgCMdAACaW9xAH4AkXNxAH4AgHQAB1Byb2R1Y3RxAH4AhnNxAH4AgHQABkVxdWFsc3EAfgCGc3EAfgCAdAAGT2JqZWN0c3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgCXc3EAfgCMdAAEbGFuZ3EAfgCRc3EAfgCAdAADQW55cQB+AIZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2ludGVycHJldGVyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLhnEjC3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF0vVXNlcnMvYnNobGVnZXJpcy9Ecm9wYm94L3JlcG9zL3Zpc3VhbC1oYXNrZWxsLWludGVycHJldGVyL3NjYWxhVkhJL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRptm0GYgfMCOirc/3NntOTZxM/Cg==
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCsbhp2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAVM93l0AAZub3RpZnlzcQB+AAwwluqhdAAEbmFtZXNxAH4ADKw7tW10AAR3YWl0c3EAfgAMzwubtHQABE5hbWVzcQB+AAyQBpfidAANJGFzSW5zdGFuY2VPZnNxAH4ADFXdhhd0AAxwcm9kdWN0QXJpdHlzcQB+AAyNwzOsdAAGZXF1YWxzc3EAfgAMA4/cAHQADGFzSW5zdGFuY2VPZnNxAH4ADDBV19N0AAxzeW5jaHJvbml6ZWRzcQB+AAweG+nJdAANJGlzSW5zdGFuY2VPZnNxAH4ADGIIjv10AAhjYW5FcXVhbHNxAH4ADFxZrQB0AA1wcm9kdWN0UHJlZml4c3EAfgAMfkOVpnQACW5vdGlmeUFsbHNxAH4ADDf5uuh0AAxpc0luc3RhbmNlT2ZzcQB+AAxuG56FdAAGPGluaXQ+c3EAfgAM5M2E03QAAj09c3EAfgAMCuKFhHQABWNsb25lc3EAfgAMkwIxbXQABGNvcHlzcQB+AAxVxK0DdAAIdG9TdHJpbmdzcQB+AAyWlcthdAACIT1zcQB+AAyrLEfCdAAIZ2V0Q2xhc3NzcQB+AAztGC4QdAAOY29weSRkZWZhdWx0JDFzcQB+AAw+jz7/dAACbmVzcQB+AAxk+B33dAACZXFzcQB+AAwP+q6UdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMDTaMunQAAiMjc3EAfgAMe9ClMnQACGZpbmFsaXplc3EAfgAM4Yyy0HQADnByb2R1Y3RFbGVtZW50c3EAfgAMBKQyNXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGludGVycHJldGVyLk5hbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AaQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBwc3EAfgBpAXVxAH4ATAAAAABwc3EAfgBpAXVxAH4ATAAAAABwc3EAfgBpAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ab3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ab3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiXNxAH4AfHEAfgB/c3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHQABGphdmFzcQB+AIh0AAJpb3EAfgCNc3EAfgB8dAAHUHJvZHVjdHEAfgCCc3EAfgB8dAAGRXF1YWxzcQB+AIJzcQB+AHx0AAZPYmplY3RzcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIcQB+AJNzcQB+AIh0AARsYW5ncQB+AI1zcQB+AHx0AANBbnlxAH4AgnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALaW50ZXJwcmV0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUuGcSMLdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXS9Vc2Vycy9ic2hsZWdlcmlzL0Ryb3Bib3gvcmVwb3MvdmlzdWFsLWhhc2tlbGwtaW50ZXJwcmV0ZXIvc2NhbGFWSEkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMWm0Fgq9/aZOnLhUlUMqyCMst34
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBjxOsoAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCoV26F0AAZub3RpZnlzcQB+AAzTfivWdAAEd2FpdHNxAH4ADGgDsfV0AAlhcHBlbmRQYXJzcQB+AAxAvSs0dAANJGFzSW5zdGFuY2VPZnNxAH4ADKlu2yB0AAZlcXVhbHNzcQB+AAzi2agZdAAMYXNJbnN0YW5jZU9mc3EAfgAMGhGTy3QADHN5bmNocm9uaXplZHNxAH4ADDasJPF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMkJBfS3QABG1haW5zcQB+AAxHZv1HdAAJbm90aWZ5QWxsc3EAfgAMNtBqt3QAC1R1dG9yaWFsQXBwc3EAfgAMSrpRrnQADGlzSW5zdGFuY2VPZnNxAH4ADImorsp0AAI9PXNxAH4ADCNlgl90AAVjbG9uZXNxAH4ADP0tR/h0AAh0b1N0cmluZ3NxAH4ADMNl+lR0AAIhPXNxAH4ADB77ehp0AAhnZXRDbGFzc3NxAH4ADEXJcdR0AAJuZXNxAH4ADIrPeIh0AAJlcXNxAH4ADEH5bvt0ABYkanMkZXhwb3J0ZWQkbWV0aCRtYWluc3EAfgAMK0ZB+XQAAiMjc3EAfgAMtRaWInQACGZpbmFsaXplc3EAfgAM8oFQvHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFXdlYl9zdHVmZi5UdXRvcmlhbEFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBkc3EAfgBdAXVxAH4AQAAAAABwc3EAfgBdAXVxAH4AQAAAAABwc3EAfgBdAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABUpTQXBwc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNxAH4AfHQAB3NjYWxhanNzcQB+AHx0AAJqc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAAGT2JqZWN0c3EAfgB0c3EAfgB3dXEAfgB6AAAAA3NxAH4AfHQABGphdmFzcQB+AHx0AARsYW5ncQB+AIVzcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8cQB+AH9xAH4AhXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJd2ViX3N0dWZmc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLhvVzjnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF0vVXNlcnMvYnNobGVnZXJpcy9Ecm9wYm94L3JlcG9zL3Zpc3VhbC1oYXNrZWxsLWludGVycHJldGVyL3NjYWxhVkhJL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRqoLFJmA1gP/biWRKlPPGP81bV8g==
+external apis:
+0 items
+source infos:
+5 items
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsExpr.scala -> 
+AAAAAAAAAAA=
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsFunctionDefinition.scala -> 
+AAAAAAAAAAA=
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/HsPartialFunction.scala -> 
+AAAAAAAAAAA=
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/interpreter/Name.scala -> 
+AAAAAAAAAAA=
+/Users/bshlegeris/Dropbox/repos/visual-haskell-interpreter/scalaVHI/src/main/scala/web_stuff/TutorialApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS4ZH3Hx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXS9Vc2Vycy9ic2hsZWdlcmlzL0Ryb3Bib3gvcmVwb3MvdmlzdWFsLWhhc2tlbGwtaW50ZXJwcmV0ZXIvc2NhbGFWSEkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS4ZxIwt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXS9Vc2Vycy9ic2hsZWdlcmlzL0Ryb3Bib3gvcmVwb3MvdmlzdWFsLWhhc2tlbGwtaW50ZXJwcmV0ZXIvc2NhbGFWSEkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS4b1c451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXS9Vc2Vycy9ic2hsZWdlcmlzL0Ryb3Bib3gvcmVwb3MvdmlzdWFsLWhhc2tlbGwtaW50ZXJwcmV0ZXIvc2NhbGFWSEkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

@@ -8,6 +8,7 @@ case class HsFunctionDefinition (name: Name, patterns: List[HsPartialFunction]) 
     patterns.foreach((pattern) => {
       pattern.tryToMatch(args) match {
         case Some(map) => return Some(pattern, map)
+        case _ => { } // ask for a comment on this
       }
     })
     None

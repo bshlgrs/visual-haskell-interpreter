@@ -1,0 +1,6 @@
+run
+set scalaJSStage in Global := FastOptStage
+run
+fastOptJS
+fastOptJs
+fastOptJS
